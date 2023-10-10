@@ -5,4 +5,4 @@ This challenge will test your knowledge of cybersecurity tools and their practic
 
 Deployed : https://cyphercam.000webhostapp.com/
 
-You can practice here. If you need any help kindly dm me on linkedin will help.
+You can practice here. If you need any help kindly dm me on linkedin(check my github profile) will help.
